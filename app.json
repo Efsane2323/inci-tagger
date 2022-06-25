@@ -1,5 +1,5 @@
 {
-  "name": "Mention All Bot",
+  "name": "inci utag bot",
   "description": "A simple mention all for telegram.",
   "env": {
       "TOKEN": {
