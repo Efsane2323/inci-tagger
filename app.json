@@ -7,7 +7,7 @@
          "value": ""
       },
       "DATABASE_URL": {
-         "description": "5497756009:AAFQoT-VIakJkqCaz4hDHUBXd2IDyoxMGWk",
+         "description": "",
          "value": ""
       },
       "OWNER_ID": {
@@ -27,11 +27,11 @@
          "value": ""
       },
       "APP_ID": {
-         "description": "10299554",
+         "description": "",
          "value": ""
       },
       "API_HASH": {
-         "description": "0f4d3f3e6936b856839784333ac5ef27",
+         "description": "",
          "value": ""
       }
   },
