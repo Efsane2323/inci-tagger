@@ -81,7 +81,7 @@ async def info(event):
                        Button.url('🇹🇷 Sahibim', 'https://t.me/evrendestek')
                       ],
                       [
-                       Button.url('🧑🏻‍💻 ɢɪᴛʜᴜʙ ᴋᴀʏɴᴀᴋ ᴋᴏᴅᴜ 🧑🏻‍💻', 'https://github.com/efsanee2323/inci-Tagger')
+                       Button.url('🧑🏻‍💻 ɢɪᴛʜᴜʙ ᴋᴀʏɴᴀᴋ ᴋᴏᴅᴜ 🧑🏻‍💻', 'https://github.com/Efsane2323/inci-tagger')
                       ],
                     ),
                     link_preview=False
