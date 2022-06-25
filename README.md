@@ -1,4 +1,4 @@
-# Tagger Bot 🇹🇷
+# inci utag bot 🇹🇷
 [Tagger Bot](https://t.me/Tegger_utag_bot) Telegram Etiket Botu .
 
 # Support 
