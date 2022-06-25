@@ -7,31 +7,31 @@
          "value": ""
       },
       "DATABASE_URL": {
-         "description": "MongoDB veritabanınizi girin .",
+         "description": "5497756009:AAFQoT-VIakJkqCaz4hDHUBXd2IDyoxMGWk",
          "value": ""
       },
       "OWNER_ID": {
-         "description": "Hesabinizin İd'sini yazın.",
+         "description": "2146648404",
          "value": ""
       },
       "LOG_CHANNEL": {
-         "description": "Log Grubunun İd'sini yazın.",
+         "description": "1001636847450",
          "value": ""
       },
       "GONDERME_TURU": {
-         "description": "Botunuzu Baslatiginda Kisiye Giden Mesaj .",
+         "description": "@Tegger_utag_bot",
          "value": ""
       },
       "BOT_USERNAME": {
-         "description": "Botunuzun Kullanıcı Adını girin.",
+         "description": "@Tegger_utag_bot",
          "value": ""
       },
       "APP_ID": {
-         "description": "my.telegram.org adresindən APP ID alın.",
+         "description": "10299554",
          "value": ""
       },
       "API_HASH": {
-         "description": "my.telegram.org adresindən API HASH alın",
+         "description": "0f4d3f3e6936b856839784333ac5ef27",
          "value": ""
       }
   },
