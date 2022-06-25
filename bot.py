@@ -702,5 +702,5 @@ class LAN(object):
         TOTAL_BLOCK = "🚷 **Ümumi əngəllənən:** `{}`\n\n{}"
 
 app.run()
-print(">> Bot çalışıyor @Hayiboo Tarafından Kuruldu<<")
+print(">> Bot çalışıyor https://t.me/evrendestek Tarafından Kuruldu<<")
 client.run_until_disconnected()
